@@ -94,7 +94,7 @@ Mi experiencia en áreas administrativas y comerciales me ha permitido desarroll
 
 - 🇪🇸 Español — Nativo.
 - 🇬🇧 Inglés — B2.
-- 🇫🇷 Francés — Básico.
+
 
 ## 🤝 ¡Conectemos!
 
