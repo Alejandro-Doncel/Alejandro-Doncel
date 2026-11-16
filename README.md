@@ -2,9 +2,7 @@
 
 ### Estudiante de Ciencia de Datos | Desarrollo de Software | Inteligencia Artificial y Cloud Computing
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Transformando+datos+en+conocimiento;Explorando+Inteligencia+Artificial;Desarrollando+soluciones+con+código;Siempre+aprendiendo+y+creando" />
-</p>
+
 
 ---
 
